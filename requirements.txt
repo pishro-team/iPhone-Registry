@@ -1,0 +1,12 @@
+pandas
+bs4
+persiantools
+matplotlib
+numpy
+sklearn
+nltk
+requests
+hazm
+huggingface-hub
+transformers
+peft
